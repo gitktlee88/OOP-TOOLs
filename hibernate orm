@@ -1,0 +1,74 @@
+(Laptop)
+lid	lname	rollno
+101	Dell	1
+102	HP	1
+103	Mac	2
+
+@Entity
+Public class Laptop
+{
+@Id
+Private int lid;
+Private String lname;
+@ManyToOne
+Private Student stud;
+}
+
+
+(Student)
+rollno	name	marks
+1	Lee	90
+2	Kim	56		
+
+@Entity
+Public class Student
+{
+@Id
+Private int rollno;
+Private String name;
+Private int marks;
+@OneToMany(mappedBy = "stud")
+Private List<Laptop> laptops;
+}
+
+So, the side which has the mappedBy attribute is the inverse side. 
+The side which doesn't have the mappedBy attribute is the owner. 
+
+In OneToMany or OneToOne, using mappyedBy tells Hibernate that there will be 
+a foreign key in the other(owner) table which will be used to store the link.
+
+When it comes to ManyToMany, there is a join table, 
+so neither directly has the link to the other object. 
+However, hibernate still needs to know which is the "owning" side to that 
+is knows how to cascade operations.
+
+lid	lname
+101	Dell
+102	HP
+103	Mac
+
+@Entity
+Public class Laptop
+{
+@Id
+Private int lid;
+Private String lname;
+@ManyToMany
+Private List<Student> studs;
+}
+
+rollno	name	marks
+1	Lee	90
+2	Kim	56
+		
+
+@Entity
+Public class Student
+{
+@Id
+Private int rollno;
+Private String name;
+Private int marks;
+@ManyToMany(mappedBy = "studs")
+Private List<Laptop> laptops;
+}
