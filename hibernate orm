@@ -40,7 +40,7 @@ a foreign key in the other(owner) table which will be used to store the link.
 When it comes to ManyToMany, there is a join table, 
 so neither directly has the link to the other object. 
 However, hibernate still needs to know which is the "owning" side to that 
-is knows how to cascade operations.
+knows how to cascade operations.
 
 lid	lname
 101	Dell
