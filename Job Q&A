@@ -22,8 +22,11 @@ and already amazing team here at SDS.”
 -What are some of your qualifications when looking for a job?
 
 ANS,
-"I was impressed with Samsung’s success and plans for the upcoming years 
+"I was impressed with Samsung’s success and visions for the upcoming years 
 as well as the global reputation in various industry area. 
+(for example, the mobile phone has a strong point against competeters.
+Sansung has world best technologies on both H/W and S/W but Apple doesn't.)
+
 I would be honored to work for a company like yours and I am confident 
 that my background, experience, and skills can be put to use while contributing 
 to the companies mission." 
@@ -71,11 +74,27 @@ great opportunity for me as well.
  SSH connection etc,
  
  <> Django Project.
- 
+ My last project was MSXViewer which is a RESTful API.
+ In brief,
+ When the client API calls a request with a URI(endpoint address)
+ It returns the response with JSON format data which is including 
+ the MQ definitions. Django REST has been used for developement. 
+ And it's run on Tomcat as MSXViewer API.
+ It's one of our Microservices APIs.
  
  <> Java Project
+ My last project was MSXViewer which is a RESTful API.
+ In brief,
+ When the client API calls a request with a URI(endpoint address)
+ It returns the response with JSON format data which is including 
+ the MQ definitions. JAX-RS & jersey has been used for developement. 
+ And it's run on Tomcat as MSXViewer API.
+ It's one of our Microservices APIs.
  
- 
+ And years ago i was maintaining JBOSS web services(MQHCV).
+ which has been used for MQ operation team.
+ It consists of 3 packages (Crawler, Feeder, MQHCV) that have to be installed 
+ and properly configured so that they can cooperate and communicate together.
  
 8. Describe a time you dealt with a conflict at work?
 
