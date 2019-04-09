@@ -52,15 +52,23 @@ great opportunity for me as well.
 
 5. What are your strengths?
 6. What are your weaknesses?
+
 7. What is your greatest accomplishment?
  <> Python project.
- Python is a general purpose programming language in general.
+ I think, Python is a general purpose programming language.
+ My first Python project(i developed) was Injector API connecting to 
+ mainframe via TN3270 IBM terminal emulator.
+ It was daily boilerplate regular job to fetch data from the host system
+ and to create a report which was used for analysing customer's resource
+ usage.  
+ 
  We are running 16 MQ hub boxes which creates lots of log files,
  So i had to develope an automation program that checks the aged files
  and remove them. And also monitoring servers to check if it's working
  or not.
- Personaly i developed my own dictionary program to learn core python
- technologies like PYQT5, using MySQL DB, SSH connection etc,
+ Personaly i created my own dictionary program to learn & develope
+ core python skills like GUI programming(PYQT5), DB access, Networking, 
+ SSH connection etc,
  
  <> Django Project.
  
