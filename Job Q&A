@@ -66,11 +66,11 @@ great opportunity for me as well.
  usage. It was good to save time for a human not to hang on a routine job. 
  
  And the other cases are,
- When we run 16 MQ hub boxes which create lots of log files,
- So i had to develope an automation program that checks the aged files
+ When we run 16 MQ hub boxes which create huge volume of log files,
+ So i had to develope an automation program that checks up the aged files
  and remove them. And also monitoring servers to check if it's working or not.
  
- Personaly i created my own dictionary program to use, learn & develope
+ Personaly, i created my own dictionary project to use, learn & develope
  core python skills like GUI programming(PYQT5), DB access, Networking, 
  SSH connection etc,
  
