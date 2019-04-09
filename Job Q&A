@@ -8,7 +8,7 @@ to contribute my experience for a various IT solutions.
 I have a passion for developing, maintaining, and S/W design architecture 
 so I believe SDS is the company to challange in my next job career. 
 I'd love to bring my Java, Python, Django expertise into the constantly growing 
-and already amazing team here at SDS.”
+company at SDS.”
 
 2. Why do you want to work here?
 
@@ -30,7 +30,7 @@ Sansung has world best technologies on both H/W and S/W but Apple doesn't.)
 I would be honored to work for a company like yours and I am confident 
 that my background, experience, and skills can be put to use while contributing 
 to the companies mission." 
-Personally if i work for SDS I would feel like returning home after long journey.
+Personally, if i work for SDS I would feel like returning home after long journey.
 
 3. What interests you most about this position?
 
@@ -63,8 +63,9 @@ great opportunity for me as well.
  mainframe via TN3270 IBM terminal emulator.
  It was daily boilerplate regular job to fetch data from the host system
  and to create a report which was used for analysing customer's resource
- usage.  
+ usage. It was good to save time for a human not to hang on a routine job. 
  
+ And the other case ,
  We are running 16 MQ hub boxes which creates lots of log files,
  So i had to develope an automation program that checks the aged files
  and remove them. And also monitoring servers to check if it's working
@@ -74,13 +75,12 @@ great opportunity for me as well.
  SSH connection etc,
  
  <> Django Project.
- My last project was MSXViewer which is a RESTful API.
+ My last Django project was MSXViewer which is a RESTful API.
  In brief,
  When the client API calls a request with a URI(endpoint address)
- It returns the response with JSON format data which is including 
+ The server returns the response with JSON format data which is including 
  the MQ definitions. Django REST has been used for developement. 
- And it's run on Tomcat as MSXViewer API.
- It's one of our Microservices APIs.
+ And it's run on Tomcat as MSXViewer API. It's one of our Microservices APIs.
  
  <> Java Project
  My last project was MSXViewer which is a RESTful API.
@@ -88,8 +88,7 @@ great opportunity for me as well.
  When the client API calls a request with a URI(endpoint address)
  It returns the response with JSON format data which is including 
  the MQ definitions. JAX-RS & jersey has been used for developement. 
- And it's run on Tomcat as MSXViewer API.
- It's one of our Microservices APIs.
+ And it's run on Tomcat as MSXViewer API. It's one of our Microservices APIs.
  
  And years ago i was maintaining JBOSS web services(MQHCV).
  which has been used for MQ operation team.
