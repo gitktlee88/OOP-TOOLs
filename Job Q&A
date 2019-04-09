@@ -14,8 +14,6 @@ into the constantly growing company at SDS.”
 
 "What the employer wants to know here"
 -They want to know if you are desperate. 
-                   Are you being selective in your job search 
-                   or Are you just applying to any random job that will have you?
 -How much do you really care about the company as a whole?
 -Have you done research on the company to see why they are great 
  and why they would be a good fit for you?
@@ -23,7 +21,7 @@ into the constantly growing company at SDS.”
 
 ANS,
 "I was impressed with Samsung’s success and visions for the upcoming years 
-as well as the global reputation in various industry area. 
+as well as the reputation in various industry area. 
 (for example, the mobile phone has a strong point against competitors.
 Samsung has world best technologies on both H/W and S/W but Apple doesn't have H/W.)
 
@@ -38,7 +36,7 @@ ANS,
 “What interests me most about this position is the opportunity for me to work 
 hands-on with my current job skills. 
 I would be happy to adding my expierence here and passing on my Java, Python 
-and Django knowledge.”
+and Django knowledge with MySQL DB.”
 
 4. Why should we hire you?
 
@@ -90,7 +88,7 @@ great opportunity for me as well.
  the MQ definitions. JAX-RS & jersey has been used for developement. 
  And it's run on Tomcat as MSXViewer API. It's one of our Microservices APIs.
  
- And years ago i was maintaining JBOSS web services(MQHCV).
+ And years ago i was maintaining JBOSS web server(MQHCV).
  which has been used for MQ operation team.
  It consists of 3 packages (Crawler, Feeder, MQHCV) that have to be installed 
  and properly configured so that they can cooperate and communicate together.
