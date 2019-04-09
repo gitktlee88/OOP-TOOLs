@@ -129,21 +129,15 @@ and Security-as-a-Service (49%).
 
 16. Do you have any questions for me?
 
-ANS,
+ANS,  "Now it’s your turn to shine."
+
+“It was really great meeting with you today. Thank you so much for your time,”
+May i ask a question about ...?
 
 
 
 
-
-"Now it’s your turn to shine. When you are asked if you have any questions, 
-Let them know that you are interested in learning more about whatever topic 
-they brought up during the interview. 
-By expressing your interest in something that was important enough for them 
-to bring up during the interview, 
-you are sure to hit a sweet spot with the hiring manager.
-
-You will score points by showing that you were paying attention and 
-that your interests align with those of the company."
+ 
 
 17. The most frequently asked RESTful Web services interview questions:
 ANS,
@@ -156,3 +150,5 @@ and also it has an advantage of running on various platforms.
 Likewise REST, Representational State Transfer is also based on 
 stateless client-server style architecture, which can be easily accessed
 over the network and is identified by URIs(Uniform Resource Identifier).
+
+
