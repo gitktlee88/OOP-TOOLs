@@ -127,3 +127,14 @@ you are sure to hit a sweet spot with the hiring manager.
 You will score points by showing that you were paying attention and 
 that your interests align with those of the company."
 
+17. The most frequently asked RESTful Web services interview questions:
+ANS,
+Web services, a very well known term when we talk about exchanging 
+some sort of data between multiple applications or say software. 
+Based on the client-server model(microservices), these services can be 
+used by multiple software application written in various languages 
+and also it has an advantage of running on various platforms.
+
+Likewise REST, Representational State Transfer is also based on 
+stateless client-server style architecture, which can be easily accessed
+over the network and is identified by URIs(Uniform Resource Identifier).
