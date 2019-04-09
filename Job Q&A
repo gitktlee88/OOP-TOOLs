@@ -131,24 +131,25 @@ and Security-as-a-Service (49%).
 
 ANS,  "Now it’s your turn to shine."
 
-“It was really great meeting with you today. Thank you so much for your time,”
 May i ask a question about ...?
 
-
+“It was really great meeting with you today. Thank you so much for your time,”
+I'm interested in getting this job, and also surely believe about 30 years
+my IT expierences will be able to adapt to whatever was expected of me here. 
 
 
  
 
 17. The most frequently asked RESTful Web services interview questions:
 ANS,
-Web services, a very well known term when we talk about exchanging 
-some sort of data between multiple applications or say software. 
-Based on the client-server model(microservices), these services can be 
-used by multiple software application written in various languages 
+Web services, a very well known term when we talk about exchanging some sort of data 
+between multiple applications.
+Based on the client-server model(microservices), these services can be used by 
+multiple software application written in various languages 
 and also it has an advantage of running on various platforms.
 
-Likewise REST, Representational State Transfer is also based on 
-stateless client-server style architecture, which can be easily accessed
-over the network and is identified by URIs(Uniform Resource Identifier).
+Likewise REST, Representational State Transfer is also based on stateless microservice 
+architecture, which can be easily accessed over the network and is identified by URIs
+(Uniform Resource Identifier).
 
 
