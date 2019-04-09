@@ -4,7 +4,7 @@
 ANS,
 “Well, I have joined to Amadeus in UK with an IBM mainfraime experience since 2001. 
 However, I am currently looking for new challenge and the opportunity 
-to contribute my experience for a various IT solutions.
+to contribute my experience with a various IT solutions.
 I have a passion for developing, maintaining, and S/W design architecture 
 so I believe SDS is the company to challange in my next job career. 
 I'd love to bring my Java, Python, Django expertise into the constantly growing 
@@ -65,12 +65,12 @@ great opportunity for me as well.
  and to create a report which was used for analysing customer's resource
  usage. It was good to save time for a human not to hang on a routine job. 
  
- And the other case ,
- We are running 16 MQ hub boxes which creates lots of log files,
+ And the other cases are,
+ When we run 16 MQ hub boxes which create lots of log files,
  So i had to develope an automation program that checks the aged files
- and remove them. And also monitoring servers to check if it's working
- or not.
- Personaly i created my own dictionary program to learn & develope
+ and remove them. And also monitoring servers to check if it's working or not.
+ 
+ Personaly i created my own dictionary program to use, learn & develope
  core python skills like GUI programming(PYQT5), DB access, Networking, 
  SSH connection etc,
  
@@ -79,7 +79,7 @@ great opportunity for me as well.
  In brief,
  When the client API calls a request with a URI(endpoint address)
  The server returns the response with JSON format data which is including 
- the MQ definitions. Django REST has been used for developement. 
+ the MQ definitions. Django REST framework has been used for developement. 
  And it's run on Tomcat as MSXViewer API. It's one of our Microservices APIs.
  
  <> Java Project
