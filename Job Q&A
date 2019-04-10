@@ -1,6 +1,5 @@
 1. Tell me about yourself?   
    make it brief, short "The Past-Present-Future Method"  
-
 ANS,
 “Well, I have joined to Amadeus in UK with an IBM mainfraime experience since 2001. 
 However, I am currently looking for new challenge and the opportunity 
@@ -11,7 +10,6 @@ I'd love to bring my Java, Python, Django and understanding Networking protocols
 into the constantly growing company like XXX.” 
 
 2. Why do you want to work here?
-
 ANS,
 "I was impressed with Samsung’s success and visions for the future 
 as well as the reputation in various industry area. 
@@ -23,14 +21,12 @@ that 20 more years IT experience and skills can be put to use whatever needed
 to the companies mission." 
 
 3. What interests you most about this position?
-
 ANS,
 “This position is the opportunity for me to work hands-on with my current job skills. 
 I would be happy to adding my various programming, debugging and maintaining expierence
 and passing on my Java, Python and Django knowledge with MySQL DB.”
 
 4. Why should we hire you?
-
 ANS,
 “No one can learn software engineering in a month, or even an year. 
 I have been learning for the past 20 more years and I am still learning today.”
@@ -38,39 +34,39 @@ IT is keep evolving and my IT skills also keep following the evolution.
 I'm very positive in terms of satisfying requirements and solving problems with new skills. 
 
 I believe XXX is growing and has bright business model. 
-If i can add my 30 years IT experience and programming skills to XXX's groth, it would be 
-great opportunity for me as well.
+If i can add my 30 years IT experience and programming skills to XXX's groth, 
+it would be great opportunity for me as well.
 
 
 5. What are your strengths?
 6. What are your weaknesses?
 
 7. What is your greatest accomplishment?
+ANS,
+ <> Django Project.
+ My rescent Django project was MSXViewer which is a RESTful API.
+ In brief,
+ When the client API calls a HTTPrequest with a URI(endpoint address)
+ The server returns the HTTPresponse with JSON data which is including 
+ the MQ configurations. Django REST framework has been used for developement. 
+ And it's run on Tomcat as MSXViewer API. It's one of our Microservices APIs.
+ 
  <> Python project.
  I think, Python is a general purpose programming language.
  My first Python project(i developed) was Injector API
  connecting to the mainframe (via TN3270 IBM terminal emulator).
  It was daily boilerplate job to fetch data from the host system
- and to create a report which was used for analysing customer's resource
- usage. 
+ and to create a report which was used for analysing customer's resource usage. 
  It was really good to save time for a person not to hang on a routine job. 
  
  And the other cases are,
  When we run 16 MQ hub boxes which create huge volume of log files,
  So i had to develope an automation program that checks up the aged files
- and remove them. And also monitoring servers to check if it's working or not.
+ and remove them. And also monitoring servers to check up if it's working or not.
  
- Personally, i created my own dictionary project to use, learn & develope
+ (Personally, i created my own dictionary project to use, learn & develope
  core python skills like GUI programming(PYQT5), DB access, Networking, 
- SSH connection etc,
- 
- <> Django Project.
- My last Django project was MSXViewer which is a RESTful API.
- In brief,
- When the client API calls a request with a URI(endpoint address)
- The server returns the response with JSON format data which is including 
- the MQ definitions. Django REST framework has been used for developement. 
- And it's run on Tomcat as MSXViewer API. It's one of our Microservices APIs.
+ SSH connection etc,)
  
  <> Java Project
  My last project was MSXViewer which is a RESTful API.
@@ -84,15 +80,14 @@ great opportunity for me as well.
  which has been used for MQ operation team.
  The application has a couple of functions(Crawler, Feeder, JBoss/Seam application ).
 
-Crawler is a shell script program which can be run by crontab entry to download 
-internally listed config files from the Server via SSH.
-At the same time it calls Feeder for every downloaded files to store into database.
-MySQL(MariaDB) was used under Linux which supports MQ-Hub in Amadeus.
+ Crawler is a shell script program which can be run by crontab entry to download 
+ internally listed config files from the Server via SSH.
+ At the same time it calls Feeder for every downloaded files to store into database.
+ MySQL(MariaDB) was used under Linux which supports MQ-Hub in Amadeus.
  
 8. Describe a time you dealt with a conflict at work?
 
 9. Why are you leaving your job?
-
 ANS,
 It's long story but to say short,our team role has been changed to operations 
 which means no more developement required. 
@@ -114,7 +109,6 @@ and Security-as-a-Service (49%).
 
 
 10. What is your dream job?
-
 ANS,
 “My dream job was a mechanical engineer of inventing energy efficient system 
 that could make a better life for a human beings.
