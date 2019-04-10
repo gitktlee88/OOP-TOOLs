@@ -1,53 +1,44 @@
 1. Tell me about yourself?   
-"The Past-Present-Future Method" make it brief, short
+   make it brief, short "The Past-Present-Future Method"  
 
 ANS,
 “Well, I have joined to Amadeus in UK with an IBM mainfraime experience since 2001. 
 However, I am currently looking for new challenge and the opportunity 
-to contribute my experience with a various IT solutions.
-I have a passion for developing, maintaining, and S/W design architecture 
-so I believe SDS is the company to challange in my next job career. 
-I'd love to bring my Java, Python, Django and understanding Networking protocols skills 
-into the constantly growing company at SDS.” 
+to contribute my experienced IT skills.
+I have a passion for developing, maintaining, and S/W design architecture, 
+so I believe XXX is the company to challange in my next job career. 
+I'd love to bring my Java, Python, Django and understanding Networking protocols 
+into the constantly growing company like XXX.” 
 
 2. Why do you want to work here?
 
-"What the employer wants to know here"
--They want to know if you are desperate. 
--How much do you really care about the company as a whole?
--Have you done research on the company to see why they are great 
- and why they would be a good fit for you?
--What are some of your qualifications when looking for a job?
-
 ANS,
-"I was impressed with Samsung’s success and visions for the upcoming years 
+"I was impressed with Samsung’s success and visions for the future 
 as well as the reputation in various industry area. 
 (for example, the mobile phone has a strong point against competitors.
-Samsung has world best technologies on both H/W and S/W but Apple doesn't have H/W.)
+Samsung has best technologies on both H/W and S/W but Apple doesn't have H/W.)
 
 I would be honored to work for a company like yours and I am confident 
-that my background, experience, and skills can be put to use while contributing 
+that 20 more years IT experience and skills can be put to use whatever needed 
 to the companies mission." 
-Personally, if i work for SDS I would feel like returning home after long journey.
 
 3. What interests you most about this position?
 
 ANS,
-“What interests me most about this position is the opportunity for me to work 
-hands-on with my current job skills. 
-I would be happy to adding my expierence here and passing on my Java, Python 
-and Django knowledge with MySQL DB.”
+“This position is the opportunity for me to work hands-on with my current job skills. 
+I would be happy to adding my various programming, debugging and maintaining expierence
+and passing on my Java, Python and Django knowledge with MySQL DB.”
 
 4. Why should we hire you?
 
 ANS,
-“No one can learn software engineering in two months, or six, or even a year. 
+“No one can learn software engineering in a month, or even an year. 
 I have been learning for the past 20 more years and I am still learning today.”
-Software engineers do not think of their career as just writing programs. 
-They think in terms of satisfying needs and solving problems. 
+IT is keep evolving and my IT skills also keep following the evolution.
+I'm very positive in terms of satisfying requirements and solving problems with new skills. 
 
-I believe XXX is growing and bright business model. 
-If i can add my experience and programming skills to XXX's groth, it would be 
+I believe XXX is growing and has bright business model. 
+If i can add my 30 years IT experience and programming skills to XXX's groth, it would be 
 great opportunity for me as well.
 
 
@@ -57,18 +48,19 @@ great opportunity for me as well.
 7. What is your greatest accomplishment?
  <> Python project.
  I think, Python is a general purpose programming language.
- My first Python project(i developed) was Injector API connecting to 
- mainframe via TN3270 IBM terminal emulator.
- It was daily boilerplate regular job to fetch data from the host system
+ My first Python project(i developed) was Injector API
+ connecting to the mainframe (via TN3270 IBM terminal emulator).
+ It was daily boilerplate job to fetch data from the host system
  and to create a report which was used for analysing customer's resource
- usage. It was good to save time for a human not to hang on a routine job. 
+ usage. 
+ It was really good to save time for a person not to hang on a routine job. 
  
  And the other cases are,
  When we run 16 MQ hub boxes which create huge volume of log files,
  So i had to develope an automation program that checks up the aged files
  and remove them. And also monitoring servers to check if it's working or not.
  
- Personaly, i created my own dictionary project to use, learn & develope
+ Personally, i created my own dictionary project to use, learn & develope
  core python skills like GUI programming(PYQT5), DB access, Networking, 
  SSH connection etc,
  
@@ -90,27 +82,31 @@ great opportunity for me as well.
  
  And years ago i was maintaining JBOSS web server(MQHCV).
  which has been used for MQ operation team.
- It consists of 3 packages (Crawler, Feeder, MQHCV) that have to be installed 
- and properly configured so that they can cooperate and communicate together.
+ The application has a couple of functions(Crawler, Feeder, JBoss/Seam application ).
+
+Crawler is a shell script program which can be run by crontab entry to download 
+internally listed config files from the Server via SSH.
+At the same time it calls Feeder for every downloaded files to store into database.
+MySQL(MariaDB) was used under Linux which supports MQ-Hub in Amadeus.
  
 8. Describe a time you dealt with a conflict at work?
 
 9. Why are you leaving your job?
+
 ANS,
-I was happy to work with keep growing Amadeus IT group which is now 
+It's long story but to say short,our team role has been changed to operations 
+which means no more developement required. 
+So i'm looking for another company to contribute my S/W programing and debugging skills. 
+I would love nothing more than to work for a growing company such as yours."
+
+(I was happy to work with keep growing Amadeus IT group which is now 
 market leading GDS(global distribution services) in the world.
 In the 1980s, 
 Monolithic mainframes were most popular computer system architectures, 
 but Information Technology continues to evolve.
-Nowadays, Microservices are the trend of Computer business. 
-So our legacy mainfraime suppose to be decommisioned.
-It's long story but to say short, Our job has been moved to operations 
-which means no more investment for future developement. 
-So i'm looking for another company to grow with me for another 10 years. 
-I would love nothing more than to work for a growing company such as yours."
+Nowadays, Microservices are the trend of Computer business.)
 
 Note,
-
 So far in 2018, SaaS(Software-as-a-Service) is 
 the most utilised cloud service for 65% of Index respondents, 
 followed by IaaS(Infrastructure-as-a-Service) (58%) 
@@ -120,12 +116,13 @@ and Security-as-a-Service (49%).
 10. What is your dream job?
 
 ANS,
-“My dream job was a mechanical engineer of inventing energy efficient car 
+“My dream job was a mechanical engineer of inventing energy efficient system 
 that could make a better life for a human beings.
-If i am getting a chance to share my IT skills with IOT business,
-I would be excited about the position because It is my dream come true.
-Millions of people use Samsung’s products each day and it seems like the work 
-you’re doing is having a big impact in the world.”
+If i'm getting a chance to share my IT skills with IOT business,
+I would be excited about the position because It means my dream come true.
+
+(Millions of people use Samsung’s products each day and it seems like the work 
+you’re doing is having a big impact in the world.”)
 
 11. Where do you see yourself in 5 years?
 
@@ -142,7 +139,7 @@ May i ask a question about ...?
 
 “It was really great meeting with you today. Thank you so much for your time,”
 I'm interested in getting this job, and also surely believe about 30 years
-my IT expierences will be able to adapt to whatever was expected of me here. 
+various IT expierences will be able to adapt to whatever was expected. (of me). 
 
 
  
