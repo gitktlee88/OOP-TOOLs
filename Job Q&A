@@ -1,35 +1,42 @@
-1. Tell me about yourself?   
-   make it brief, short "The Past-Present-Future Method"  
+Job Q&A
+
+1. Tell me about yourself ?   ( make it brief, short "The Past-Present-Future Method" )
+  
 ANS,
-“Well, I have joined to Amadeus in UK with an IBM mainfraime experience since 2001. 
-However, I am currently looking for new challenge and the opportunity 
-to contribute my experienced IT skills.
+“Well, I have joined to Amadeus in UK since 2001. At the moment Amadeus was just like a toddler
+in GDS market.     I was happy to work with keep growing Amadeus IT group which is now 
+market leading GDS(global distribution services) in the world.
+
+I am currently looking for new challenge and the opportunity to contribute my experienced IT skills.
 I have a passion for developing, maintaining, and S/W design architecture, 
-so I believe XXX is the company to challange in my next job career. 
+So, I believe XXX is the company to challange in my next job career. 
 I'd love to bring my Java, Python, Django and understanding Networking protocols 
 into the constantly growing company like XXX.” 
 
 2. Why do you want to work here?
+
 ANS,
 "I was impressed with Samsung’s success and visions for the future 
 as well as the reputation in various industry area. 
 (for example, the mobile phone has a strong point against competitors.
-Samsung has best technologies on both H/W and S/W but Apple doesn't have H/W.)
+Samsung has best technologies on both H/W and S/W but Apple doesn't have H/W.)”
 
-I would be honored to work for a company like yours and I am confident 
-that 20 more years IT experience and skills can be put to use whatever needed 
-to the companies mission." 
+I would be honored to work for a company which is growing like yours and I am confident 
+that 20 more years IT experience and skills can be put to use whatever needed to the company’s mission.
+Probably this could be my last challenge  in my job career before retirement.
 
-3. What interests you most about this position?
+3. What interests you most about this position ?
+
 ANS,
 “This position is the opportunity for me to work hands-on with my current job skills. 
-I would be happy to adding my various programming, debugging and maintaining expierence
+I would be happy to add my various programming, debugging and maintaining expierence
 and passing on my Java, Python and Django knowledge with MySQL DB.”
+4. Why should we hire you ?
 
-4. Why should we hire you?
 ANS,
-“No one can learn software engineering in a month, or even an year. 
+“No one can learn software engineering in a month, or even a year. 
 I have been learning for the past 20 more years and I am still learning today.”
+
 IT is keep evolving and my IT skills also keep following the evolution.
 I'm very positive in terms of satisfying requirements and solving problems with new skills. 
 
@@ -37,11 +44,11 @@ I believe XXX is growing and has bright business model.
 If i can add my 30 years IT experience and programming skills to XXX's groth, 
 it would be great opportunity for me as well.
 
-
 5. What are your strengths?
 6. What are your weaknesses?
 
-7. What is your greatest accomplishment?
+7. What is your greatest accomplishment(achievement)?
+
 ANS,
  <> Django Project.
  My rescent Django project was MSXViewer which is a RESTful API.
@@ -52,7 +59,7 @@ ANS,
  And it's run on Tomcat as MSXViewer API. It's one of our Microservices APIs.
  
  <> Python project.
- I think, Python is a general purpose programming language.
+ I think, Python is a general-purpose programming language.
  My first Python project(i developed) was Injector API
  connecting to the mainframe (via TN3270 IBM terminal emulator).
  It was daily boilerplate job to fetch data from the host system
@@ -76,20 +83,21 @@ ANS,
  the MQ definitions. JAX-RS & jersey has been used for developement. 
  And it's run on Tomcat as MSXViewer API. It's one of our Microservices APIs.
  
- And years ago i was maintaining JBOSS web server(MQHCV).
+ And years ago, i was maintaining JBOSS web server(MQHCV).
  which has been used for MQ operation team.
  The application has a couple of functions(Crawler, Feeder, JBoss/Seam application ).
 
  Crawler is a shell script program which can be run by crontab entry to download 
  internally listed config files from the Server via SSH.
- At the same time it calls Feeder for every downloaded files to store into database.
+ At the same time, it calls Feeder for every downloaded file to store into database.
  MySQL(MariaDB) was used under Linux which supports MQ-Hub in Amadeus.
  
 8. Describe a time you dealt with a conflict at work?
 
 9. Why are you leaving your job?
+
 ANS,
-It's long story but to say short,our team role has been changed to operations 
+It's long story but to say short,our team role has been changed to operations in Nice
 which means no more developement required. 
 So i'm looking for another company to contribute my S/W programing and debugging skills. 
 I would love nothing more than to work for a growing company such as yours."
@@ -109,9 +117,11 @@ and Security-as-a-Service (49%).
 
 
 10. What is your dream job?
+
 ANS,
 “My dream job was a mechanical engineer of inventing energy efficient system 
-that could make a better life for a human beings.
+that could make a better life for a human being.
+
 If i'm getting a chance to share my IT skills with IOT business,
 I would be excited about the position because It means my dream come true.
 
@@ -125,29 +135,33 @@ you’re doing is having a big impact in the world.”)
 14. What are 3 positive things your last boss would say about you?
 15. What kind of things do you like to do outside of work?
 
-16. Do you have any questions for me?
+16. Do you have any questions for me?  "Now it’s your turn to shine."
 
-ANS,  "Now it’s your turn to shine."
+ANS,  
 
 May i ask a question about ...?
 
 “It was really great meeting with you today. Thank you so much for your time,”
-I'm interested in getting this job, and also surely believe about 30 years
+I'm interested in getting this job, and also surely believe about my 30 years
 various IT expierences will be able to adapt to whatever was expected. (of me). 
+
+
+
 
 
  
 
 17. The most frequently asked RESTful Web services interview questions:
+
 ANS,
-Web services, a very well known term when we talk about exchanging some sort of data 
+Web services, a very well-known term when we talk about exchanging some sort of data 
 between multiple applications.
+
 Based on the client-server model(microservices), these services can be used by 
 multiple software application written in various languages 
-and also it has an advantage of running on various platforms.
+and also, it has an advantage of running on various platforms.
 
-Likewise REST, Representational State Transfer is also based on stateless microservice 
+Likewise, REST (Representational State Transfer) is also based on stateless microservice 
 architecture, which can be easily accessed over the network and is identified by URIs
 (Uniform Resource Identifier).
-
 
