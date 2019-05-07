@@ -1,7 +1,6 @@
 Job Q&A
 
 1. Tell me about yourself ?   ( make it brief, short "The Past-Present-Future Method" )
-  
 ANS,
 “Well, I have joined to Amadeus in UK since 2001. At the moment Amadeus was just like a toddler
 in GDS market.     I was happy to work with keep growing Amadeus IT group which is now 
@@ -14,7 +13,6 @@ I'd love to bring my Java, Python, Django and understanding Networking protocols
 into the constantly growing company like XXX.” 
 
 2. Why do you want to work here?
-
 ANS,
 "I was impressed with Samsung’s success and visions for the future 
 as well as the reputation in various industry area. 
@@ -26,13 +24,12 @@ that 20 more years IT experience and skills can be put to use whatever needed to
 Probably this could be my last challenge  in my job career before retirement.
 
 3. What interests you most about this position ?
-
 ANS,
 “This position is the opportunity for me to work hands-on with my current job skills. 
 I would be happy to add my various programming, debugging and maintaining expierence
 and passing on my Java, Python and Django knowledge with MySQL DB.”
-4. Why should we hire you ?
 
+4. Why should we hire you ?
 ANS,
 “No one can learn software engineering in a month, or even a year. 
 I have been learning for the past 20 more years and I am still learning today.”
@@ -45,10 +42,15 @@ If i can add my 30 years IT experience and programming skills to XXX's groth,
 it would be great opportunity for me as well.
 
 5. What are your strengths?
+ANS,
+I have various, strong IT background from legacy Mainframe O/S to cutting edge Microservices.
+
 6. What are your weaknesses?
+ANS,
+Because of my job career as a developer, i'm getting use to talk to machine, rather than human.
+So i needed a social sports club to improve my weakness.
 
 7. What is your greatest accomplishment(achievement)?
-
 ANS,
  <> Django Project.
  My rescent Django project was MSXViewer which is a RESTful API.
@@ -93,18 +95,20 @@ ANS,
  MySQL(MariaDB) was used under Linux which supports MQ-Hub in Amadeus.
  
 8. Describe a time you dealt with a conflict at work?
+ANS,
+I had once my colleague blamed my C++ skills which is almost new to me at the moment.
+So i took for granted it and bagged an advice for idea to solve the issue.
+Well, it took a time but we managed to sort out the problem and our relationship too.
 
 9. Why are you leaving your job?
-
 ANS,
 It's long story but to say short,our team role has been changed to operations in Nice
 which means no more developement required. 
 So i'm looking for another company to contribute my S/W programing and debugging skills. 
-I would love nothing more than to work for a growing company such as yours."
 
 I was happy to work with keep growing Amadeus IT group which is now 
 market leading GDS(global distribution services) in the world.
-It’s time to go somewhere they wants me. 
+I believe It’s good time to challenge for another opportunity. 
 
 In the 1980s, 
 Monolithic mainframes were most popular computer system architectures, 
@@ -119,7 +123,6 @@ and Security-as-a-Service (49%).
 
 
 10. What is your dream job?
-
 ANS,
 “My dream job was a mechanical engineer of inventing energy efficient system 
 that could make a better life for a human being.
@@ -138,23 +141,19 @@ you’re doing is having a big impact in the world.”)
 15. What kind of things do you like to do outside of work?
 
 16. Do you have any questions for me?  "Now it’s your turn to shine."
-
 ANS,  
-
-May i ask a question about ...?
-
+First of all,
 “It was really great meeting with you today. Thank you so much for your time,”
+
+Would you let me know what kind of project is planned for this role if there is?
+
 I'm interested in getting this job, and also surely believe about my 30 years
 various IT expierences will be able to adapt to whatever was expected. (of me). 
-
-
-
 
 
  
 
 17. The most frequently asked RESTful Web services interview questions:
-
 ANS,
 Web services, a very well-known term when we talk about exchanging some sort of data 
 between multiple applications.
